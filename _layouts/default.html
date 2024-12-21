@@ -10,7 +10,7 @@
           font-family: Arial, sans-serif; 
           width: 80%
           margin: 20px auto; /* Adds top margin and centers body content */
-          padding: 0 20px; /* Adds left and right padding */
+          padding: 0 100px; /* Adds left and right padding */
         }
         header { color: #3d0000; padding: 10px 0; }
 
@@ -22,7 +22,7 @@
     
         nav { display: flex; justify-content: center; gap: 20px; }
         nav a { color: #343a40; text-decoration: none; padding: 8px 15px; border-radius: 5px; }
-/*         nav a[href="/"] {display: none;  } */
+        nav a[href="/"] {display: none;  }
         nav a:hover { font-weight: bold; color: #29629f; }
         .content { padding: 15px; }
         .footer { text-align: center; margin-top: 20px; font-size: 0.9em; color: #adaeaf; }      
@@ -39,7 +39,6 @@
             <a href="/papers/">Writings</a>
             <a href="/about/">About</a>
         </nav>
-<!--       {{ site.navigation | default: '' }} -->
     </nav>
   </header>
   <main>

@@ -8,6 +8,7 @@
   <style>
         body { 
           font-family: Arial, sans-serif; 
+          width: 80%
           margin: 20px auto; /* Adds top margin and centers body content */
           padding: 0 20px; /* Adds left and right padding */
         }
@@ -18,6 +19,7 @@
             border-top: 1px solid #ccc;
             margin: 0 0 20px 0; /* Adds space below the line */
         }
+    
         nav { display: flex; justify-content: center; gap: 20px; }
         nav a { color: #343a40; text-decoration: none; padding: 8px 15px; border-radius: 5px; }
 /*         nav a[href="/"] {display: none;  } */
@@ -37,7 +39,7 @@
             <a href="/papers/">Writings</a>
             <a href="/about/">About</a>
         </nav>
-      {{ site.navigation | default: '' }}
+<!--       {{ site.navigation | default: '' }} -->
     </nav>
   </header>
   <main>

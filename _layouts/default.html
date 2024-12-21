@@ -14,11 +14,9 @@
         }
         header { color: #3d0000; padding: 10px 0; }
 
-        <hr>
     
         nav { display: flex; justify-content: center; gap: 20px; }
         nav a { color: #343a40; text-decoration: none; padding: 8px 15px; border-radius: 5px; }
-        nav a[href="/"] {display: none;  }
         nav a:hover { font-weight: bold; color: #29629f; }
         .content { padding: 15px; }
         .footer { text-align: center; margin-top: 20px; font-size: 0.9em; color: #adaeaf; }      
@@ -37,6 +35,9 @@
         </nav>
     </nav>
   </header>
+
+  <hr>
+  
   <main>
     {{ content }}
   </main>

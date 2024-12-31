@@ -11,7 +11,7 @@ permalink: /teaching/
 #### Instructor : Prof. Susmita Saha
 
 |--------------|--------------------------------------------------------|
-| Assignment 1 |  [PDF[^*]](teaching/phy2110/assignment-1(full-set).pdf)    |
+| Assignment 1 |  [PDF](teaching/phy2110/assignment-1(full-set).pdf)[^*]    |
 
 ### <font color='brown'> PHY-2310: Electricity & Magnetism in Light of Relativity
 #### Instructor : Prof. Susmita Saha

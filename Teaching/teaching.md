@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching
+class: teaching-page
 permalink: /teaching/
 ---
 

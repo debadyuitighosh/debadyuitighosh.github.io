@@ -41,7 +41,7 @@
     {% if page.title == "Home" %}
       Last updated on: {{ site.time | date: "%B %d, %Y" }}
     {% else %}
-      {{ site.footer | default: '' }}
+      {{ page.footer | default: site.footer | default: '' }}
     {% endif %}
   </footer>
 </body>

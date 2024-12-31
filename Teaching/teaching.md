@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 class: teaching-page
 permalink: /teaching/
-footer: $^*$ Major contributions from course instructor/ other TFs
+footer: <sup>*</sup> &rarr; Major contributions from course instructor/ other TFs
 ---
 
 ## Teaching Resources 
@@ -12,7 +12,7 @@ footer: $^*$ Major contributions from course instructor/ other TFs
 #### Instructor : Prof. Susmita Saha
 
 |--------------|------------------------------------------------------------|
-| Assignment 1 |  [PDF](teaching/phy2110/assignment-1(full-set).pdf)$^*$    |
+| Assignment 1 |  [PDF](teaching/phy2110/assignment-1(full-set).pdf) <sup>*<sup>    |
 
 ### <font color='brown'> PHY-2310: Electricity & Magnetism in Light of Relativity
 #### Instructor : Prof. Susmita Saha

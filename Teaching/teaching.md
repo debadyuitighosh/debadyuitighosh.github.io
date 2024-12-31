@@ -8,11 +8,13 @@ permalink: /teaching/
 ## Teaching Resources <br> 
 
 ### <font color='brown'> PHY-2110: Mathematical Physics-2
+#### Instructor : Prof. Susmita Saha
 
 |--------------|--------------------------------------------------------|
-| Assignment 1 |  [PDF^*](teaching/phy2110/assignment-1(full-set).pdf)    |
+| Assignment 1 |  [PDF[^*]](teaching/phy2110/assignment-1(full-set).pdf)    |
 
 ### <font color='brown'> PHY-2310: Electricity & Magnetism in Light of Relativity
+#### Instructor : Prof. Susmita Saha
 
 |---------------|----------------------------------------------------------------------------|---------------------------------------------|
 | Problem Set 1 | <font color='grey'> <span style="padding: 0 40px;"> Vector Calculus - 1  | [PDF](teaching/phy2310/ProbSet-1.pdf)      |

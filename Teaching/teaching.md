@@ -24,9 +24,7 @@ footer: " * Major contributions from course instructors / other TFs"
 | Problem Set 2 | <font color='grey'> <span style="padding: 0 40px;"> Vector Calculus - 2    | [PDF](teaching/phy2310/ProbSet-2.pdf)      |
 | Problem Set 3 | <font color='grey'> <span style="padding: 0 40px;"> Special Relativity     | [PDF](teaching/phy2310/ProbSet-3.pdf)      | <span style="padding: 0 10px;">[Solution](teaching/phy2310/solved-ProbSet-3.pdf) |
 | Problem Set 4 | <font color='grey'> <span style="padding: 0 40px;"> Magnetism              | [PDF](teaching/phy2310/ProbSet-4.pdf)      |
-
 <br>
-
 |--------------|----------------------------------------------------------------------------------------|
 | Assignment 1 | <span style="padding: 0 20px;">  [PDF](teaching/phy2310/assignment-1.pdf) *            | 
 | Assignment 2 | <span style="padding: 0 20px;">  [PDF](teaching/phy2310/assignment-2.pdf) *            |

@@ -8,13 +8,13 @@ footer: " * Major contributions from course instructor/ other TFs"
 
 ## Teaching Resources 
 
-### <font color='brown'> PHY-2110: Mathematical Physics-2
-#### Instructor : Prof. Susmita Saha
+### <font color='brown'> PHY-2110: Mathematical Physics-2 <span style="float: right;"> Spring 2024
+#### Instructor : Prof. Amin Nizami & Prof. Suratna Das
 
 |--------------|------------------------------------------------------------|
 | Assignment 1 |  [PDF](teaching/phy2110/assignment-1(full-set).pdf) *      |
 
-### <font color='brown'> PHY-2310: Electricity & Magnetism in Light of Relativity
+### <font color='brown'> PHY-2310: Electricity & Magnetism in Light of Relativity <span style="float: right;"> Monsoon 2024
 #### Instructor : Prof. Susmita Saha
 
 |---------------|----------------------------------------------------------------------------|---------------------------------------------|

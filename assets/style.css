@@ -1,7 +1,7 @@
 h1 { padding: 5px 0; font-size:24px}
 hr { border: none; height: 1px; width:100%; background: #ccc; margin: 20px 0; }
 
-footer { text-align: center; margin-top: 20px; padding: 10px; }
+footer { text-align: center; margin-top: 20px; padding: 10px; color: #404040; }
 footer a { color: #404040;  text-decoration: none; font-size: 1.2em; }
 footer a:hover { color: #29629f; }
 

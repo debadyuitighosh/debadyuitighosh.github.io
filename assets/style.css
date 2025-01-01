@@ -7,15 +7,7 @@ footer a:hover { color: #29629f; }
 
 
 /* For the TEACHING page */
-.teaching-page h2 {
-    margin-top: 20px;
-    margin-bottom: 5px;
-}
-.teaching-page h3 {
-    margin-top: 15px;
-    margin-bottom: 5px;
-}
-.teaching-page h4 {
-    margin-top: 5px;
-    margin-bottom: 5px;
+.teaching-page h2 {  margin-top: 10px; }
+.teaching-page h3 {  margin-top: 40px; }
+.teaching-page h4 {  margin-top: 10px;  margin-bottom: 10px;
 }

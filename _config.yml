@@ -1,4 +1,4 @@
 # theme: jekyll-theme-minimal
 # title: Debadyuiti Ghosh
 markdown : kramdown
-footer: <a href="mailto:debadyuitighosh@gmail.com" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> email</a>
+footer: '<a href="mailto:debadyuitighosh@gmail.com" class="author-social" target="_blank"><i class="fas fa-envelope"></i> Email</a>'

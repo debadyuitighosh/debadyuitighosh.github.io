@@ -12,7 +12,7 @@ footer: " * Major contributions from course instructors / other TFs"
 #### Instructor : Prof. Amin Nizami & Prof. Suratna Das
 
 |--------------|----------------------------------------------------------------------------------------|--------------|
-| Assignment 1 | <span style="padding: 0 20px;">  [PDF](/phy2110/assignment-1(full-set).pdf) *  | [Solution](/phy2110/solved-assignment-1.pdf) |
+| Assignment 1 | <span style="padding: 0 20px;">  [PDF](Teaching/PHY2110/Assignment-1(Full-set).pdf) *  | [Solution](/phy2110/solved-assignment-1.pdf) |
 | Assignment 2 | <span style="padding: 0 20px;">  [PDF](/phy2110/assignment-2.pdf) *  |         |
 | Assignment 3 | <span style="padding: 0 20px;">  [PDF](/phy2110/assignment-3.pdf) *  |         |
 

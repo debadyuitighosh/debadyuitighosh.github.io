@@ -5,7 +5,7 @@ class: teaching-page
 permalink: /teaching/
 footer: " * Major contributions from course instructors / other TFs"
 ---
-
+<hr>
 ## Teaching Resources 
 
 ### <span style="color: brown;"> PHY-2110: Mathematical Physics-2 </span> <span style="float: right;"> Spring 2024 </span>
